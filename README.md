@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I'm a final year BTech CSE undergrad and an adept Full-Stack developer.<br>🌱 I leverage NextJS, ReactJS, NodeJS, ExpressJS, and MongoDB to construct robust and scalable solutions.<br>💻 Programming Languages which I have worked on are C++, JavaScript, TypeScript.
+🔭 Aspiring Software Development Engineer with strong problem-solving skills in Data Structures and Algorithms.<br>
+💻 Full-Stack Developer with hands-on expertise in building scalable applications using Next.js, React.js and PostgreSQL.<br>
+📚 Strong Computer Science foundation, reinforced by coursework in Machine Learning, Operating Systems and DBMS.<br>
+🎯 Actively seeking an SDE role to apply my technical skills, problem-solving abilities and passion for innovation.
 
 
 ## 🌐 Socials:
