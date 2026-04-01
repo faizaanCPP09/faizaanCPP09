@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 Aspiring SDE with a focus on NLP and Intelligent Systems; strong problem-solving skills in Data Structures and Algorithms.
+
 💻 Full-Stack Developer experienced in building scalable applications with Next.js and PostgreSQL, including integrating Large Language Models (LLMs) and vector databases for semantic search.
+
 📚 Strong CS foundation with advanced coursework in Natural Language Processing, Operating Systems, and DBMS.
 
 ## 🌐 Socials:
