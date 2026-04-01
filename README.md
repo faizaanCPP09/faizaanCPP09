@@ -1,9 +1,7 @@
 # 💫 About Me:
-🔭 Aspiring Software Development Engineer with strong problem-solving skills in Data Structures and Algorithms.<br>
-💻 Full-Stack Developer with hands-on expertise in building scalable applications using Next.js, React.js and PostgreSQL.<br>
-📚 Strong Computer Science foundation, reinforced by coursework in Machine Learning, Operating Systems and DBMS.<br>
-🎯 Actively seeking an SDE role to apply my technical skills, problem-solving abilities and passion for innovation.
-
+🔭 Aspiring SDE with a focus on NLP and Intelligent Systems; strong problem-solving skills in Data Structures and Algorithms.
+💻 Full-Stack Developer experienced in building scalable applications with Next.js and PostgreSQL, including integrating Large Language Models (LLMs) and vector databases for semantic search.
+📚 Strong CS foundation with advanced coursework in Natural Language Processing, Operating Systems, and DBMS.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizaan-shaikh-cse) 
